@@ -6,7 +6,10 @@ header{
 	background-color: lightblue;
 }
 
-h1{
-	margin: 0;
-	padding: 2emm 0;
-} 
+h2{
+	color: blue;
+}
+
+p{
+	text-align: justify;
+}
